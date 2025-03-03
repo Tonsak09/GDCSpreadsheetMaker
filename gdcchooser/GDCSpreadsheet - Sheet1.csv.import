@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://rqwfltgpk6nw"
+
+[deps]
+
+files=["res://GDCSpreadsheet - Sheet1.Title.translation", "res://GDCSpreadsheet - Sheet1.Room.translation", "res://GDCSpreadsheet - Sheet1.Speaker name.translation", "res://GDCSpreadsheet - Sheet1.Date.translation", "res://GDCSpreadsheet - Sheet1.Time.translation", "res://GDCSpreadsheet - Sheet1.Recorded.translation"]
+
+source_file="res://GDCSpreadsheet - Sheet1.csv"
+dest_files=["res://GDCSpreadsheet - Sheet1.Title.translation", "res://GDCSpreadsheet - Sheet1.Room.translation", "res://GDCSpreadsheet - Sheet1.Speaker name.translation", "res://GDCSpreadsheet - Sheet1.Date.translation", "res://GDCSpreadsheet - Sheet1.Time.translation", "res://GDCSpreadsheet - Sheet1.Recorded.translation"]
+
+[params]
+
+compress=true
+delimiter=0
