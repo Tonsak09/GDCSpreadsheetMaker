@@ -1,6 +1,11 @@
 # GDC 2025 spreadsheet maker 
 UI is not my passion...
 
+## Requirements 
+Godot 4.3
+
+## How to use
+
 Controls
 - Right Arrow : Interested
 - Left Arrow : Not Interested
